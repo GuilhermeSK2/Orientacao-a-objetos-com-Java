@@ -7,19 +7,19 @@ public class User {
         this.lastName = lastName;
     }
 
-    public void setFirstName(String firstName) {
+    public void setFirstName() {
         this.firstName = firstName;
     }
 
-    public void setLastName(String lastName) {
+    public void setLastName() {
         this.lastName = lastName;
     }
 
-    public String getFirstName(String firstName) {
+    public String getFirstName() {
         return firstName;
     }
 
-    public String getLastName(String lastName) {
+    public String getLastName() {
         return lastName;
     }
 
