@@ -7,11 +7,11 @@ public class User {
         this.lastName = lastName;
     }
 
-    public void setFirstName() {
+    public void setFirstName(firstName) {
         this.firstName = firstName;
     }
 
-    public void setLastName() {
+    public void setLastName(lastName) {
         this.lastName = lastName;
     }
 
